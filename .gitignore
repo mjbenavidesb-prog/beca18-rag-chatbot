@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Data files (add the PDF manually)
+data/*.pdf
+
+# ChromaDB persistent storage
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
